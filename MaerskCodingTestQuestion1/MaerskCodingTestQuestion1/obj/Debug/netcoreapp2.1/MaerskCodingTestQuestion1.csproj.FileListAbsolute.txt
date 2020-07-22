@@ -1,0 +1,16 @@
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\bin\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.deps.json
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\bin\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.runtimeconfig.json
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\bin\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.runtimeconfig.dev.json
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\bin\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.dll
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\bin\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.pdb
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\obj\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.csprojAssemblyReference.cache
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\obj\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.AssemblyInfoInputs.cache
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\obj\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.AssemblyInfo.cs
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\obj\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.csproj.CoreCompileInputs.cache
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\obj\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.RazorAssemblyInfo.cache
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\obj\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.RazorAssemblyInfo.cs
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\obj\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.RazorTargetAssemblyInfo.cache
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\obj\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.dll
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\obj\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.pdb
+C:\Prashant\Projects\Maersk\MaerskCodingTestQuestion1\MaerskCodingTestQuestion1\obj\Debug\netcoreapp2.1\MaerskCodingTestQuestion1.genruntimeconfig.cache
